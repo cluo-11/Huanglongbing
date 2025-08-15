@@ -1,2 +1,2 @@
 # Huanglongbing
-基于高光谱成像技术的柑橘黄龙病检测
+Hyperspectral diagnostic method of multi-variety citrus Huanglongbing based on feature optimization and CMR-CNN
